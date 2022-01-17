@@ -34,6 +34,10 @@ Revisions to the css file include:
 ## Mock-up
 ![Horiseon Refactored Webpage](https://github.com/jacih/Horiseon-Refactoring/blob/main/Assets/images/jacih.github.io_Horiseon-Refactoring_.png)
 
+## Webpage Links
+Staging Link: https://jacih.github.io/Horiseon-Refactoring/
+Github Repo Link: https://github.com/jacih/Horiseon-Refactoring.git
+
 ## License
 MIT License 2022 
 https://github.com/jacih/Horiseon-Refactoring/blob/main/LICENSE.txt
