@@ -33,7 +33,7 @@ Revisions to the css file include:
     
 ## Mock-up
  ```md
-    ![Horiseon Refactored Webpage](./Assets/images/screenshot.png)
+    ![Horiseon Refactored Webpage](./Assets/images/jacih.github.io_Horiseon-Refactoring_.png)
     ```
 ## License
 - [License](#license)
