@@ -32,11 +32,8 @@ Revisions to the css file include:
 * Color changes for accessibility may break brand guidelines and need to be approved by the business prior to implementation as the proposed revision may create a snowball effect. If a color being used presents accessibility issues, the developer should flag the issue to the design firm and/or company and should not move forward with their own adjustment.
     
 ## Mock-up
-    ![Horiseon Refactored Webpage](../images/jacih.github.io_Horiseon-Refactoring_.png)
+    ![Horiseon Refactored Webpage](https://github.com/jacih/Horiseon-Refactoring/blob/main/LICENSE.txt)
 
 ## License
-- [License](#license)
-
-## License
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+https://github.com/jacih/Horiseon-Refactoring/blob/main/LICENSE.txt
 
