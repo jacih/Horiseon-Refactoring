@@ -2,6 +2,15 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../Class-Repos/Week-1/UTOR-VIRT-FSF-FT-01-2022-U-LOL"
+		},
+		{
+			"path": "../Class-Repos/Week-2/03-JavaScript"
+		},
+		{
+			"path": "../Class-Repos/Week-2/04-Web-APIs"
 		}
 	],
 	"settings": {}
