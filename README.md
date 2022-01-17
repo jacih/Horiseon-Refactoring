@@ -32,8 +32,9 @@ Revisions to the css file include:
 * Color changes for accessibility may break brand guidelines and need to be approved by the business prior to implementation as the proposed revision may create a snowball effect. If a color being used presents accessibility issues, the developer should flag the issue to the design firm and/or company and should not move forward with their own adjustment.
     
 ## Mock-up
-    ![Horiseon Refactored Webpage](https://github.com/jacih/Horiseon-Refactoring/blob/main/LICENSE.txt)
+![Horiseon Refactored Webpage](https://github.com/jacih/Horiseon-Refactoring/blob/main/Assets/images/jacih.github.io_Horiseon-Refactoring_.png)
 
 ## License
+MIT License 2022 
 https://github.com/jacih/Horiseon-Refactoring/blob/main/LICENSE.txt
 
