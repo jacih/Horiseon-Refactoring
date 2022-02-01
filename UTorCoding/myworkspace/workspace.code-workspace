@@ -1,19 +1,65 @@
 {
 	"folders": [
 		{
+			"name": "myworkspace",
 			"path": "."
 		},
 		{
+			"name": "UTOR-VIRT-FSF-FT-01-2022-U-LOL",
 			"path": "../Class-Repos/Week-1/UTOR-VIRT-FSF-FT-01-2022-U-LOL"
 		},
 		{
+			"name": "03-JavaScript",
 			"path": "../Class-Repos/Week-2/03-JavaScript"
 		},
 		{
+			"name": "04-Web-APIs",
 			"path": "../Class-Repos/Week-2/04-Web-APIs"
 		},
 		{
+			"name": "06-Server-Side-APIs",
+			"path": "../Class-Repos/Week-3/06-Server-Side-APIs"
+		},
+		{
+			"name": "05-Third-Party-APIs",
+			"path": "../Class-Repos/Week-3/05-Third-Party-APIs"
+		},
+		{
+			"name": "JH-Portfolio",
 			"path": "../Homework/JH-Portfolio"
+		},
+		{
+			"name": "Password-Generator",
+			"path": "../Homework/Password-Generator"
+		},
+		{
+			"name": "Javascript-101-Quiz",
+			"path": "../Homework/Javascript-101-Quiz"
+		},
+		{
+			"name": "Workday-Calendar",
+			"path": "../Homework/Workday-Calendar"
+		},
+		{
+			"path": "../Projects/group-collab-test"
+		},
+		{
+			"path": "../Homework/LoC-Search-Tool"
+		},
+		{
+			"path": "../Homework/Weather-Dashboard"
+		},
+		{
+			"path": "../Class-Repos/Week-4/07-Project-1"
+		},
+		{
+			"path": "../Class-Repos/Week-4/08-Project-1-Contd"
+		},
+		{
+			"path": "../Projects/Off-The-Couch"
+		},
+		{
+			"path": "../Projects/Off-The-Couch-brandonBranch"
 		}
 	],
 	"settings": {}

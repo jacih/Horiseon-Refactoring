@@ -5,15 +5,18 @@ var msgDiv = document.querySelector("#msg");
 var userEmailSpan = document.querySelector("#user-email");
 var userPasswordSpan = document.querySelector("#user-password");
 
-renderLastRegistered();
-
 function displayMessage(type, message) {
   msgDiv.textContent = message;
   msgDiv.setAttribute("class", type);
 }
 
+let lastEmail = localStorage.getItem("emailInput");
+let lastPassword = localStorage.getItem("lastPassword");
+
 function renderLastRegistered() {
-  // TODO: Retrieve the last email and password and render it to the page
+
+  userEmailSpan.textContent = lastEmail;
+  userPasswordSpan.textContent = lastPassword;
 }
 
 signUpButton.addEventListener("click", function(event) {
@@ -30,5 +33,9 @@ signUpButton.addEventListener("click", function(event) {
     displayMessage("success", "Registered successfully");
 
   // TODO: Save email and password to localStorage and render the last registered user
+  localStorage.setItem("lastEmail", lastEmail);
+  localStorage.setItem("lastPassword", lastPassword);
   }
 });
+
+renderLastRegistered();

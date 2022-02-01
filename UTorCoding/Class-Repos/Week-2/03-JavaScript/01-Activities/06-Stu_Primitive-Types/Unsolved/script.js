@@ -6,18 +6,18 @@ var five = "Howdy!";
 var six;
 
 // Insert comments to explain what each console log below will log to the console
-console.log(typeof one); //number
-console.log(typeof two); //string
-console.log(typeof three); //boolean
-console.log(typeof four); //number
-console.log(typeof five); //string
-console.log(typeof six); //undefined
+console.log(typeof one); 
+console.log(typeof two); 
+console.log(typeof three); 
+console.log(typeof four); 
+console.log(typeof five);
+console.log(typeof six);
 
 four = "Hello!";
 five = false;
 six = 23;
 
 // Insert comments to explain what each console log below will log to the console
-console.log(typeof four); //string because line 16 has reassigned the value of the variable
-console.log(typeof five); //boolean because line 17 has reassigned the value of the variable
-console.log(typeof six); //number because line 16 has reassigned the value of the variable
+console.log(typeof four);
+console.log(typeof five);
+console.log(typeof six);

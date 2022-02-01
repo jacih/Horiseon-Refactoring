@@ -5,13 +5,14 @@ var todoCountSpan = document.querySelector("#todo-count");
 
 var todos = [];
 
-// TODO: What is the purpose of this function?
+// stores user input tasks.
 function renderTodos() {
-  // TODO: Describe the functionality of the following two lines of code.
+  // assigning an empty string to the "to do" list;
   todoList.innerHTML = "";
+  // assigning the count value to the to do array's number of elements;
   todoCountSpan.textContent = todos.length;
   
-  // TODO: Describe the functionality of the following `for` loop.
+  // this loop is creating individual elements for each user input, and adding those elements to the to-do list and adding a complete button to each input task.
   for (var i = 0; i < todos.length; i++) {
     var todo = todos[i];
 
@@ -28,8 +29,10 @@ function renderTodos() {
 }
 
 // TODO: What is the purpose of the following function?
+//trigger processing of the function
 function init() {
   // TODO: What is the purpose of the following line of code?
+// get stored to dos from local store
   var storedTodos = JSON.parse(localStorage.getItem("todos"));
   // TODO: Describe the functionality of the following `if` statement.
   if (storedTodos !== null) {
@@ -64,6 +67,7 @@ todoForm.addEventListener("submit", function(event) {
 todoList.addEventListener("click", function(event) {
   var element = event.target;
   // TODO: Describe the functionality of the following `if` statement.
+  
   if (element.matches("button") === true) {
     var index = element.parentElement.getAttribute("data-index");
     todos.splice(index, 1);
